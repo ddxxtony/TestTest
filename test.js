@@ -23,6 +23,8 @@ var serverResults = [
 ];
 
 // plus simulate the call to the server, use promises and setTimeout 
+// plus do this in a VFP 
+
 // html template 
 <!DOCTYPE html>
 <html>
